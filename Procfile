@@ -1,0 +1,1 @@
+web: sh setup.sh && node rusa-server-master/server.js && nodemon rusa-json-server-master && serve -s rusa-dist-master/

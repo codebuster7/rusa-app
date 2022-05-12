@@ -1,0 +1,614 @@
+{
+    "programs": [
+        {
+            "id": 1,
+            "program": "Centre for Multidisciplinary Curriculum and Pedagogy",
+            "about": "The Centre will carry out trainings in learning opportunities with a multi-disciplinary approach. In line with the NEP, 2020, the Centre will enable institutions and faculty to provide open, creative, and critical learning opportunities by inter-connecting various streams of arts and science. It will plan and execute trainings and modules in multi-disciplinary curriculum & pedagogy and build capacity of the faculty and institutions to be able to conduct such courses and adopt such pedagogy in their institution. The Centre will focus on development and promotion of creative IT based tools to promote experiential learning as part of pedagogy.",
+            "subprogram": [
+            {
+                "id":1,
+                "video":"https://www.youtube.com/embed/bZFpxII6qNU",
+                "program": "Maharashtra State Development of Educators and Enhancement in Delivery (MS-DEED) Program",
+                "about":"IISER, Pune’s cascading model training for all the science and math faculty of HEIs on skill development and capacity building needs.",
+                "info": ["Level 1- Three Day 'Online Workshop' ", "    MS-DEED Program will cater to Skill Development and Capacity Building needs of the faculty of colleges and Universities. Through this program, educations will be exposed to ", "a) Modern inquiry-based teaching skills;", "b) Research-based hands-on laboratory techniques;", " c) Subject/field experts;", "d) Core philosophies of science and mathematics education.", "Duration: Three days", "Mode: ONLINE "],
+                "eligibility": "in-service motivated, early career and enthusiastic faculty members who teach Bachelors and Masters Courses in science and mathematics subjects at universities or colleges affiliated to universities",
+                "coordinator": [
+                    "Vijay Joshi",
+                    "9930179920",
+                    "Asim Auti",
+                    "9850841053",
+                    "asim@acads.iiserpune.ac.in",
+                    "Neeraja Dashaputre",
+                    "7798855004",
+                    "neeraja@iiserpune.ac.in"
+                ],
+                "collaborator": ["IISER,Pune", "Indian Institute of Social Science Education and Research (IISER), Pune is an Institute of National Importance under the Ministry of Education, dedicated to State-of-the-art research and teaching in basic sciences. The institute has well equipped labs and places emphasis on interdisciplinary, and cutting-edge methods and tools for science teaching. To know more go to www.iiserpune.ac.in"],
+                "syllabus": [
+                {
+                    "topic": "Module 1",
+                    "subtopic": [
+                        "module 1.1",
+                        "module 1.2"
+                    ]
+                },
+                {
+                    "topic": "Module 2",
+                    "subtopic": [
+                        "module 2.1",
+                        "module 2.2"
+                    ]
+                }]
+            },
+            {
+                "id":2,
+                "video":"https://www.youtube.com/embed/39EMCT3azr8",
+                "program": "Heritage, Language and Cognition ",
+                "about":"Deccan College Post Graduate Research Institute’s residential capacity building workshops for faculty members in Archaeology and Linguistics to provide open, creative, and critical learning opportunities by inter-connecting various streams of arts and science.",
+                "info": ["Training of teachers from higher education institutes (HEIs) of Maharashtra in Archaeology, Linguistics & other disciplines", "Courses of Five days’ duration", "  Linguistics ", "i.  Facets of Multilingualism", "ii. Documentation of Different Aspects of Language", "  Archaeology", "i.   Ancient History and Archaeology of Maharashtra", "ii.    Archaeological Perspectives on Ancient Indian Technologies", "Duration: Five days ", "Mode: ONLINE/OFFLINE ", "Courses of Twenty-one days’ duration", "The participants will be undergraduate teachers in the humanities, social sciences and sciences. These sessions will aim at introducing subfields of Archaeology and Linguistics which have wide application. Participants will “learn by doing”: field trips / simulated data collection, visits to museums / sites, experiments, mini-projects, etc. will be an integral part of the training. Participants will be encouraged to reflect on their learning experience through journaling and group presentations.", "  Linguistics ", "Multi-disciplinary Approaches to Linguistics (offline)", "  Archaeology", "i.   Multi-disciplinary Approaches to Archaeology (offline)", "Mode: OFFLINE – Residential"],
+                "eligibility": "Undergraduate and postgraduate teachers in humanities, social sciences and sciences ",
+                "coordinator": [
+                    "Surajkumar Babar",
+                    "9422692313",
+                    "Sonal Kulkarni",
+                    "9890444606",
+                    "sonal.kulkarni@dcpune.ac.in",
+                    "Dr. Nisha Swant",
+                    "9769994453",
+                    "nisha.sawant@dcpune.ac.in"
+                ],
+                "collaborator": ["Deccan Institute, Pune", "Deccan College Post-graduate and Research Institute, Pune - Deccan College Post-graduate and Research Institute, Pune is a Deemed University dedicated to research and teaching in the disciplines of Ancient Indian History and Culture, Archaeology, Linguistics, Sanskrit and Lexicograph. The Deccan College has richly contributed to building a repository of ancient knowledge through discovery and scientific analyses of valuable information and historical data To know more go to www.dcpune.ac.in"],
+                "syllabus": [
+                {
+                    "topic": "Module 1",
+                    "subtopic": [
+                        "module 1.1",
+                        "module 1.2"
+                    ]
+                },
+                {
+                    "topic": "Module 2",
+                    "subtopic": [
+                        "module 2.1",
+                        "module 2.2"
+                    ]
+                }]
+            },
+            {
+                "id":3,
+                "video":"",
+                "program": "Art Integrated Learning ",
+                "about":"With Sir JJ Institutions (Fine Art), Mumbai, a comprehensive faculty development program with emphasis on Value of Art in Human Life and Approaches to Art Teaching .",
+                "info": ["Trainings in in Value of Art in Human Life", "    Face to face 5 day Thematic training in “VALUE & POSITION OF ART IN HUMAN LIFE” in batches of 40  each", "  Face to face 5 day Intensive training program in “Approach to Art Teaching” to apprise the art/design/architecture teachers in latest concepts and techniques in art pedagogy. in batches of 25 each", "Mode: OFFLINE – Residential"],
+                "eligibility": "undergraduate and postgraduate teachers Fine Arts, Architecture, Design or any other discipline",
+                "coordinator": [
+                    "Vijay Joshi",
+                    "9930179920",
+                    "Santosh Kshirsagar",
+                    "9322651187",
+                    "kshirsagar.santosh@gmail.com",
+                    "Rajiv Mishra",
+                    "9869212690",
+                    "rm@sirjj.mu.ac.in"
+                ],
+                "collaborator": ["Sir J.J Group of Institutions, Mumbai", "Sir J J Group of Institutions comprising Sir J J Institute of Applied Art, Sir J J College of Architecture & Sir J J School of Arts. This group of institutions is one of the pioneering and prestigious institutes of fine art education in India since its establishment in 1878. To know more go to www.sirjjschoolofart.in ; Sir J J Institute of Applied Arts (jjiaa.org) ; sirjjarchitecture.org"],
+                "syllabus": [
+                {
+                    "topic": "Module 1",
+                    "subtopic": [
+                        "module 1.1",
+                        "module 1.2"
+                    ]
+                },
+                {
+                    "topic": "Module 2",
+                    "subtopic": [
+                        "module 2.1",
+                        "module 2.2"
+                    ]
+                }]
+            },
+            {
+                "id":4,
+                "video":"https://www.youtube.com/embed/x90jUY7ywNg",
+                "program": "Navonmesha – Tradition for Innovation” – Indian Knowledge System",
+                "about":"Kavikulguru Kalidas Sanskrit University, Ramtek’s residential program in Yoga (Holistic approach), Ecological Balance in Indian Knowledge System, Management Concepts from Indian Knowledge System",
+                "info": ["  Five-day thematic training (15 sessions) ", "Topics - Yoga – Holistic approach; Ecological Balance in Indian Knowledge System; Management Concepts from Indian Knowledge System in batch of 40. The training will include assignments, evaluation and practical, wherever if applicable. ", "Mode: OFFLINE – Residential "],
+                "eligibility": "UG and PG teachers from Humanities, Science and Language disciplines.",
+                "coordinator": [
+                    "Surajkumar Babar",
+                    "9422692313",
+                    "Penna Madhusudan",
+                    "9860529642",
+                    "vc@kksu.org",
+                    "Parag Joshi",
+                    "9881789689",
+                    "paragj@kksu.org"
+                ],
+                "collaborator": ["Kavikulguru Kalidas Sanskrit University, Ramtek", "Kavikulguru Kalidas Sanskrit University (KKSU), Ramtek established in 1997 in Ramtek, Nagpur dedicated to the advanced learning of Sanskrit. University is unique in nature in that it has innovative academic program and syllabus which focuses on a modern approach to the Sanskrit language. In addition to preserving traditional Sanskrit, it emphasizes on the study of science and technology in ancient India, which is exclusively described in old Sanskrit texts. To know more go to www.kksu.co.in"],
+                "syllabus": [
+                {
+                    "topic": "Module 1",
+                    "subtopic": [
+                        "module 1.1",
+                        "module 1.2"
+                    ]
+                },
+                {
+                    "topic": "Module 2",
+                    "subtopic": [
+                        "module 2.1",
+                        "module 2.2"
+                    ]
+                }]
+            },
+            {
+                "id":5,
+                "video":"",
+                "program": "Faculty Induction Training",
+                "about":"UGC, HRDC, Mumbai and MSFDA Induction/refresher residential training streamlined in sync with the tenets of National Education Policy 2020 and guided by experts on various topics like purpose of education, multidisciplinary approach, innovation and cutting edge technology, understanding higher education and leadership development etc. thereby equip new teachers with necessary skills, knowledge and attitude for effective academic performance.",
+                "info": ["Pursuant to the National Policy of Education (1986), it was recognized that the motivation of teachers of higher education has a crucial link to the quality of higher education. It was also recognized that the teachers should be provided with sufficient opportunities for their professional and personal development if the quality of higher education has to improve. In order to achieve the same UGC had established 66 HRDCs spread over the length and breadth of the country with the objective of providing in-service training to the teachers of higher education. UGC HRDC University of Mumbai was one the first few HRDCs established way back in 1987. Over a period of time, HRDC, University of Mumbai has blossomed into an institution renowned for the quality of its training programmes. It has been rated by NAAC as a Performer and ranked 7 th amongst the 66 HRDCs in the country and first amongst the western states of Maharashtra, Goa and Gujarat. Faculty development is a common objective of MSFDA and UGC HRDC, University of Mumbai. Since UGC HRDC, University of Mumbai has been conducting induction/refresher programs for faculty; they are well placed to continue this on behalf of MSFDA. UGC HRDC, University of Mumbai has been carrying out these types of trainings and have expertise in these. The training modules and contents is streamlined to bring the training in sync with the tenets of National Education Policy, 2020 and with the principles of MSFDA. These training programs will be guided by experts on various topics like purpose of education, multidisciplinary approach, innovation and cutting edge technology, understanding higher education and leadership development etc. and equip new teachers with necessary skills, knowledge and attitude for effective academic performance.","Duration: 28 days (3 weeks)", "Mode: Offline "],
+                "eligibility": "Preferably for newly appointed teachers or by any teachers who hasn’t attended Induction/Refresher trainings organized by any HRDCs.",
+                "coordinator": [
+                    "Rahee Dahake",
+                    "9922276683",
+                    "Shanthi",
+                    "9833676950",
+                    "director@hrdc.mu.ac.in"
+                ],
+                "collaborator": ["UGC HRDC, Mumbai", "UGC Human Resource Development Centre, University of Mumbai, one of the 48 Centres of UGC, set up to cater to the training needs of teachers in the higher educational system. UGC HRDC, Mumbai imparts quality training through their Orientation Programmes, Refresher Courses and Short Term Courses and now it has blossomed into a centre of excellence. To know more go to www.hrdc.mu.ac.in"],
+                "syllabus": [
+                {
+                    "topic": "Module 1: Purpose of Education",
+                    "subtopic": [
+                        "Objectives: To provide a comprehensive overview of the purpose of education and develop the socio-emotional aspects involved in education."
+                    ]
+                },
+                {
+                    "topic": "Module 2: Multidisciplinary",
+                    "subtopic": [
+                        "Objective: To understand the significance of a multidisciplinary interaction of fields within education in order to create a holistic learning environment."
+                    ]
+                }]
+            },{
+                "id":6,
+                "video":"https://www.youtube.com/embed/NXOzsj737SY",
+                "program": "Faculty Development Programs in Techno-pedagogy and Andragogy for Active",
+                "about":"Symbiosis International University, Pune and MSFDA’s residential Faculty Development Program on aspects of Andragogy and techniques for online and blended of Techno- pedagogy to create awareness regarding 21st century teaching learning skills and provide training for the same, thus promoting wellbeing of students and stimulating positive changes within stakeholders of higher education",
+                "info": ["The training program is designed broadly based on the New Education Policy of the Government of India. NEP 2020 envisions India as a Global Study Centre supporting high-quality, holistic and multidisciplinary education.","7-day Faculty Development Program in blended mode of which 5 Days residential (Classroom F2F) in Symbiosis International University campus followed by 2 Days Online Workshop (Synchronous online training). Further, follow-up session for assignment submission and later summative assessment based on video and essay.","Duration: 7 days (5 days Classroom F2F &amp; 2 days’ Synchronous online training)","Mode: Blended (F2F and Online)"],
+                "eligibility": "Under graduate (UG) and Post-graduate (PG) teachers from any discipline",
+                "coordinator": [
+                    "Rahee Dahake ",
+                    "9922276683",
+                    "Rajani Gupte ",
+                    "9422302160",
+                    "vc@siu.edu.in"
+                ],
+                "collaborator": ["Symbiosis International (Deemed University),Pune", "Symbiosis International (Deemed University), is a multi-disciplinary university standing high in the arena of International Higher Education, established in 1971, by Prof. Dr. S.B. Mujumdar. The vision of the University is “Promoting International Understanding through Quality Education”. Today the University has its campuses spread across four states and 6 cities in India offering varied industry specific, content rich programmes through its 8 study faculties: Law, Management, Computer Studies, Health Sciences, Media &amp; Communication, Humanities &amp; Social Sciences, Engineering, and Architecture &amp; Design, providing education to 20,000 students including international students. To know more go to www.siu.edu.in"],
+                "syllabus": [
+                {
+                    "topic": "Module 1: Purpose of Education",
+                    "subtopic": [
+                        "Objectives: To provide a comprehensive overview of the purpose of education and develop the socio-emotional aspects involved in education."
+                    ]
+                },
+                {
+                    "topic": "Module 2: Multidisciplinary",
+                    "subtopic": [
+                        "Objective: To understand the significance of a multidisciplinary interaction of fields within education in order to create a holistic learning environment."
+                    ]
+                }]
+            }]
+        },
+        {
+            "id": 2,
+            "program": "Centre for Leadership Development",
+            "about": "This Centre will focus on training of senior faculty of HEIs who are in leadership positions or are likely to assume leadership positions. The various aspects of NEP, 2020 will be discussed with them and they will be motivated to translate the policy features into actuality within their institutions. Modules on ethical leadership will be held in collaboration with expert organizations. The Centre will also work towards development of leadership traits in students. ",
+            "subprogram": [
+            {
+                "id":1,
+                "video":"https://www.youtube.com/embed/ZjNR1jfI1p8",
+                "program": "Ethics & Values for stakeholders of Higher Education Institutions",
+                "about":"Initiatives of Change, Panchgani (IofC)/Asia Plateau with MSFDA’s is a residential program to make participants introspect and stimulate positive changes for the benefit of college students through the following key principles of organization say an Inside-out Approach to Transformation, Character-based Leadership, Reflective, Direction-seeking Silence (Inner Listening) etc",
+                "info": ["Program: Ethics & Values for stakeholders of Higher Education Institutions ", "  The 5 Day in-person session offers an immersion session at Asia Plateau, Panchgani to make participants introspect and stimulate positive changes for the benefit of college students through the following key principles of organisation:", "An Inside-out Approach to Transformation • Character-based Leadership • Reflective, Direction-seeking Silence (Inner Listening) • Inspiring participants through Real-life Stories • Holistic Learning Design • Inspire not Advice", "5 Day session will be followed with 2 Day in-person refresher session at university locations, and would be designed to facilitate sharing and exchanges between non-student facing and student facing participants of the 5 day in-person session.", "Duration: 5 Days residential session followed by 2 Day follow-up in person sessions", "Mode : Offline"],
+                "eligibility": "Undergraduate (UG) and Post-graduate (PG) teachers from any discipline, Non- teaching staff, Management staff from the Higher Education Institute.",
+                "coordinator": [
+                    "Pramod Pabrekar",
+                    "9821118299",
+                    "Viren Shukla",
+                    "9820390463",
+                    "virenshk@gmail.com"
+                ],
+                "collaborator": ["Initiatives of Change/Asia Plateau, Panchgani", "Initiatives of Change (IofC)’s Asia Plateau is the educational centre established in 1967, committed to the transformation of society through changes inhuman motives and behaviour, starting with their own. It organizes and runs educational programmes, conferences and dialogues for people from all walks of lives including government, business, youth, armed forces, educators, rural communities and others, on these ideas. To know more go to www.in.iofc.org"],
+                "syllabus": [
+                {
+                    "topic": "Module 1",
+                    "subtopic": [
+                        "module 1.1",
+                        "module 1.2"
+                    ]
+                },
+                {
+                    "topic": "Module 2",
+                    "subtopic": [
+                        "module 2.1",
+                        "module 2.2"
+                    ]
+                }]
+            },{
+                "id":2,
+                "video":"",
+                "program": "Tribal Pride Journey - Experiential Learning Program",
+                "about":"Gondwana University, Gadchiroli with MSFDA’s program is an experiential learning journey for faculty members to tribal areas of Gadchiroli and Chandrapur districts to experience the towering social projects and the cultural heritage of the region with the objective of the training is to understand the impact of various social initiatives on the life of society, experience the different issues plaguing the tribal, and understand the issues of forest rights of tribal.",
+                "info": ["5 day Faculty Development program of faculty members to tribal areas of Gadchiroli and Chandrapur District, where they will experience the towering social projects and the cultural heritage of the region.","1. Understand the impact of various social initiatives on the life of society","2. Experience the different issues plaguing the tribal","3. Understand the issues of forest rights of tribal","Duration: 5 days of experiential learning","Mode: Offline"],
+                "eligibility": "Principals/representative of Management/Senior teacher from the colleges situated in Tribal areas of Maharashtra",
+                "coordinator": [
+                    "Vijay Joshi",
+                    "9930179920"
+                ],
+                "collaborator": ["Gondwana University", "Gondwana University, is a Public University or Government University which was established in 2011 in the Gadchilori district of Maharashtra. The Gondwana University has been conceived and formed with a foresighted view to cater the aspirations of the economically so also socio-culturally backward districts of Gadchiroli and Chandrapur Over the years, Gondwana University has proven itself quite efficient in  nurturing the students to their very core and helping them in their bloom in their career. To know more go to www.gondwanauniversity.org"],
+                "syllabus": [
+                {
+                    "topic": "Module 1",
+                    "subtopic": [
+                        "module 1.1",
+                        "module 1.2"
+                    ]
+                },
+                {
+                    "topic": "Module 2",
+                    "subtopic": [
+                        "module 2.1",
+                        "module 2.2"
+                    ]
+                }]
+            },{
+                "id":3,
+                "video":"",
+                "program": "Transition to Leadership",
+                "about":"An exclusive in-house residential capacity building program coordinated by MSFDA for newly appointed principals or aspiring principals of higher education institutions to provide visionary leadership to higher education, facilitate administrative efficiency, create positive performance work culture and explore integration of technology.",
+                "info": ["An exclusive in-house residential capacity building program coordinated by MSFDA for newly appointed principals or aspiring principals of HEIs.","The program is prepared with the objective to provide visionary leadership to higher education, facilitate administrative efficiency, create positive performance work culture and explore integration of technology. This training programme will have a judicious mix of focused lectures by renowned resource persons from respective areas of expertise, round tables and debate, case studies and role play, project presentation, panel discussion by various experts. Through the said pedagogy, the educators will be exposed to aspects of leadership, administration, infrastructure, core activity, reach, assessment, diversity and inclusion and aim to achieve the following outcomes","Improved governance and managerial capabilities","Establish process and procedures","Improved efficiency in decision making based on Data Ranking and Accreditation","Mode: Residential (Offline)","Duration: 7 days","Eligibility: Newly appointed principals or aspiring principals of HEIs"],
+                "eligibility": "Principals/representative of Management/Senior teacher from the colleges situated in Tribal areas of Maharashtra",
+                "coordinator": [
+                    "Vijay Joshi",
+                    "9930179920"
+                ],
+                "collaborator": ["Gondwana University", "Gondwana University, is a Public University or Government University which was established in 2011 in the Gadchilori district of Maharashtra. The Gondwana University has been conceived and formed with a foresighted view to cater the aspirations of the economically so also socio-culturally backward districts of Gadchiroli and Chandrapur Over the years, Gondwana University has proven itself quite efficient in  nurturing the students to their very core and helping them in their bloom in their career. To know more go to www.gondwanauniversity.org"],
+                "syllabus": [
+                {
+                    "topic": "Module 1",
+                    "subtopic": [
+                        "module 1.1",
+                        "module 1.2"
+                    ]
+                },
+                {
+                    "topic": "Module 2",
+                    "subtopic": [
+                        "module 2.1",
+                        "module 2.2"
+                    ]
+                }]
+            }]
+        },
+        {
+            "id": 3,
+            "program": "Centre for Innovation and Cutting Edge Technology",
+            "about": "The Centre will foster innovation culture in HEIs. It will develop tools and methodologies to nurture innovation, incubation and entrepreneurial ecosystem and impart trainings in this field. It will focus on research and analysis and strengthen the participant’s understanding as an entrepreneur, leader and/or explorer in new fields and ideas. It will also focus on contemporary development in the various subject domains. In the disruptive age the shelf life of skills is reduced drastically. The Centre will develop creative interventions to impart future ready skills for bridging the skill gap.",
+            "subprogram": [
+            {
+                "id":1,
+                "video":"https://www.youtube.com/embed/CS4LASVfzEA",
+                "program": "Establishment of Innovation and Cutting-edge Technology Centres",
+                "about":"Vishwakarma University, Pune with MSFDA’s training program in critical areas of Innovation, Leadership, Collaboration, Industry Connect and Digital Presence to empower towards meaningful industry collaboration, Inculcating entrepreneurial mindset amongst faculty, students and other stakeholders, Facilitating industry-led projects through Centres developed in various HEIs.",
+                "info": ["Level 1 'Online workshop' ", "  Topics - Exposure to Cutting-Edge Technologies; Appreciation of significance of industry collaborations; Experience of activity-based learning pedagogies. Online Teaching-Learning-Assessment and dissemination of knowledge will be through scalable platforms like VU Digital and Vishwakarma Online Learning Platform (VOLP) will be utilised for. The indicative training modules will be:", "Emerging Technologies and Industries; Innovation value chain and its significance in teaching-learning", "   A process to establish industry collaboration for addressing real-life problem of industry", "Duration - Two Week (14 days)"],
+                "eligibility": "Undergraduate (UG) and Post-graduate (PG) teachers of any discipline.",
+                "coordinator": [
+                    "Suraj kumar",
+                    "9422692313",
+                    "Amol Randive",
+                    "83308302515",
+                    "amol.randive@vupune.ac.in",
+                    "Yogesh Deshpande",
+                    "9322774898",
+                    "yogesh.deshpande@vupune.ac.in"
+                ],
+                "collaborator": ["Vishwakarma University, Pune", "Vishwakarma University, Pune (VU) - Established in 2017 as a State private University by the Government of Maharashtra and recognized by University Grants Commission is currently ranked among the top universities in India. VU has created its own identity based on impactful research &amp; innovation, academics, and socially responsible outreach. To know more go to www.vupune.ac.in"],
+                "syllabus": [
+                {
+                    "topic": "Module 1",
+                    "subtopic": [
+                        "module 1.1",
+                        "module 1.2"
+                    ]
+                },
+                {
+                    "topic": "Module 2",
+                    "subtopic": [
+                        "module 2.1",
+                        "module 2.2"
+                    ]
+                }]
+            },
+            {
+                "id":2,
+                "video":"",
+                "program": "Entrepreneurship and skill development Trainings",
+                "about":"Institute of Chemical Technology, Mumbai with MSFDA ‘s a residential capacity building program in Entrepreneurship development, cutting edge and technological innovation to expose faculty in various framework tools and methodologies to nurture innovation, entrepreneurial skills, to set up technology business incubators and also analyze current business trends.",
+                "info": ["Program - Faculty Development Program (FDP) in Entrepreneurship development , cutting edge and technological innovation (5 days) ", "    The program offers to expose faculty in various framework tools and methodologies to nurture innovation, entrepreneurial skills, to set up technology business incubators. Also analyse current business trends and design and develop customized modules. ", "Eligibility - Under graduate (UG) and Post-graduate (PG) teachers of any discipline ", "Duration - Five days followed by one day of follow-up ", "Mode - Offline"],
+                "eligibility": "UG and PG teachers of all disciplines",
+                "coordinator": [
+                    "Surajkumar Babar",
+                    "9422692313",
+                    "Vikas Telvekar",
+                    "9372373309",
+                    "vn.telvekar@ictmumbai.edu.in",
+                    "Prashant Kharkar",
+                    "9819467123",
+                    "ps.kharkar@ ictmumbai.edu.in"
+                ],
+                "collaborator": ["Institute of Chemical Technology (ICT),Mumbai", " A  premier (deemed) university devoted to education, training, research and industrial collaboration in chemical engineering, chemical technology, applied chemistry, pharmacy, biotechnology and bio-processing. The Government of Maharashtra granted it the Elite Status and Centre of Excellence in 2012, a singular distinction accorded to any institute in the entire country. ICT has been ranked amongst top ten Engineering Institutes of India. To know more go to www.ictmumbai.edu.in "],
+                "syllabus": [
+                {
+                    "topic": "Module 1",
+                    "subtopic": [
+                        "module 1.1",
+                        "module 1.2"
+                    ]
+                },
+                {
+                    "topic": "Module 2",
+                    "subtopic": [
+                        "module 2.1",
+                        "module 2.2"
+                    ]
+                }]
+            }]
+        },
+        {
+            "id": 4,
+            "program": "Centre for Inclusion and Diversity",
+            "about": "The Centre will sensitize the faculty, students and HEIs to diversity and inclusion as a non-negotiable value. It will operate as a cross-cutting theme and design and plan training programmes to encourage HEIs to build a conducive environment for students from diverse backgrounds to be able to access and enroll in their courses. It will also network with specialized organisations/individuals to enrich the trainings in this field.",
+            "subprogram": [
+            {
+                "id":1,
+                "video":"https://www.youtube.com/embed/LUoM-8hkDdE",
+                "program": "Pragnya Parisars - (Emotional friendly campuses) in HEIs",
+                "about":"Institute of Psychological Health, Thane, established by Dr. Anand Nadkarni, an internationally reputed psychiatrist based in Mumbai along with MSFDA is a training for Institute to become a role model in emotional friendly campus and to influence other colleges in their surroundings for the development of the culture of emotional friendliness.",
+                "info": ["    Five day face-to-face training for a five member team (comprising of one person from Management,  two teachers, one non-academic staff and one student representing participating institute) on subjects such as team building, decision making, emotion management, academic leadership through mental health perspective, mentoring, stress management, rational thinking, fostering creativity in youth, linking curricular with extra-curricular activities and principles of counselling followed by 3 virtual follow-up sessions. ", "Duration – Five Days face to face session and Three Virtual session", "Mode – Offline and Online "],
+                "eligibility": "Any Institute interested in having Pragniya Parisars",
+                "coordinator": [
+                    "Pramod Pabrekar",
+                    "9821118299",
+                    "Anuradha Sovani",
+                    "9821050528",
+                    "anuradhasovani@gmail.com",
+                    "Geeta Joshi",
+                    "9819374503",
+                    "joshigeeta236@gmail.com"
+                ],
+                "collaborator": ["Institution for Psychological Health(IPH),Thane", "Institute for Psychological Health, a unique NGO established by Dr. Anand Nadkarni, an internationally reputed psychiatrist based in Mumbai. IPH has been working for more than 30 years in various successful community projects related to mental health. To know more go to www.healthymind.org"],
+                "syllabus": [
+                {
+                    "topic": "Module 1",
+                    "subtopic": [
+                        "module 1.1",
+                        "module 1.2"
+                    ]
+                },
+                {
+                    "topic": "Module 2",
+                    "subtopic": [
+                        "module 2.1",
+                        "module 2.2"
+                    ]
+                }]
+            },
+            {
+                "id":2,
+                "video":"https://www.youtube.com/embed/LvoaegZdVyI",
+                "program": "Manas Rang : Colours of Mind – Trainings on Mental Wellness",
+                "about":"Peer to peer model training and establishing Manas Rang Centres in higher education institutions (HEIs) of Maharashtra with Parivartan Trust,Satara for mental well-being of students and to facilitate establishment of accessible and inclusive mental-health services for students.",
+                "info": ["   Peer to peer model training in higher education institutions (HEIs) of Maharashtra regarding mental well-being of students and to facilitate establishment of accessible and inclusive mental-health services for students. One day orientation followed by two day face-to-face training for a Seven member team (comprising of 5 students and 2 Teachers representing participating institute) followed up with three online follow-up training session covering How to establish Manas Rang center in the institute, importance of mental health, range of mental health issues in community, mental health issues specific to young age, Art of listening, Emotional first-aid, Manas Rang method of mental health communication", "Mode – Offline and Online"],
+                "eligibility": "Any Institute interested in setting up Manas Rang center",
+                "coordinator": [
+                    "Shantanu Pawar",
+                    "8866800776",
+                    "9834080418",
+                    "Hamid Dabholkar",
+                    "9823557531",
+                    "hamid.dabholkar@gmail.com"
+                ],
+                "collaborator": ["Parivartan Trust, Satara", "Parivartan trust was established by late Dr. Narendra Dabholkar and Dr. Shaila Dabholkar in 1991. Over a period of almost three decades, Parivartan has evolved into an organization in development of evidence-based models of care for people with mental health and addiction problems. To know more go to www.parivartantrust.in"],
+                "syllabus": [
+                {
+                    "topic": "Module 1",
+                    "subtopic": [
+                        "module 1.1",
+                        "module 1.2"
+                    ]
+                },
+                {
+                    "topic": "Module 2",
+                    "subtopic": [
+                        "module 2.1",
+                        "module 2.2"
+                    ]
+                }]
+            },
+            {
+                "id":3,
+                "video":"",
+                "program": "Gender Sensitisation – Inclusive Education Trainings",
+                "about":"SNDT Women’s University, Mumbai and MSFDA’s faculty development training to inculcate the value of inclusion and diversity with special focus on gender sensitization among the teachers and students of Higher Education Institutions (HEI).",
+                "info": ["   The Training program will focus to empower and upskill faculty/administrative staff of universities and colleges in the State of Maharashtra to re-construct the stereotypes of social constructs, develop gender-neutral instructional material for students and community, identify different ways of depicting gender normativity through language and pictorial form etc. including verbal and nonverbal communication, recognize the individual’s strengths and weaknesses irrespective of gender and its influence in one’s life (Personal & professional),develop an ecosystem of gender-neutral society through transformation of attitudes and behaviours, conduct gender sensitivity training programmes for students and community.", "Duration – Four days and Three days Online Intervention", "Mode – Offline and Online"],
+                "eligibility": "Teachers from any discipline and administrative staff ",
+                "coordinator": [
+                    "Sandhya MK",
+                    "9445171766",
+                    "Anju Uppal",
+                    "8390903781",
+                    "Putul Sathe",
+                    "9819561680",
+                    "Putulsathe@rcws.sndt.ac.in",
+                    "Jayashree Shinde",
+                    "9820779375",
+                    "jshinde@det.sndt.ac.in",
+                    "Prof. Ujwala Chakradeo",
+                    "9890601461",
+                    "vc@sndt.ac.in"
+                ],
+                "collaborator": ["SNDT Women’s University", "Shreemati Nathibai Damodar Thackersey Women’s University (SNDTWU), the first Women’s University of India and South East Asia. The motto of the university is “An enlightened woman is a source of infinite strength”.  SNDT Women's University is committed to the cause of women's empowerment through access to education, particularly higher education, through relevant courses in the formal and non-formal streams. To know more go to www.sndt.ac.in"],
+                "syllabus": [
+                {
+                    "topic": "Module 1",
+                    "subtopic": [
+                        "module 1.1",
+                        "module 1.2"
+                    ]
+                },
+                {
+                    "topic": "Module 2",
+                    "subtopic": [
+                        "module 2.1",
+                        "module 2.2"
+                    ]
+                }]
+            },
+            {
+                "id":4,
+                "video":"",
+                "program": "Trainings on Inclusive Education ",
+                "about":"St.Xavier’s College (Autonomous), Mumbai’s Resource Centre for the Visually Challenged (XRCVC) with MSFDA to create awareness amongst teachers and educators and also train with requisite information to effect inclusive education in their institutes through sensitization understanding the key assistive technologies, learning the key principles of Inclusive education, teaching strategies and tips to make classrooms inclusive.",
+                "info": ["5 days “Online/Offline” Training ", "This program offers to create awareness amongst teachers and educators and also train with requisite information to effect inclusive education in their institutes. ", "Duration - Five days", "Mode - Online and Offline (3 Days offline session followed by 2 days (8 sessions) online spread across 11 months) "],
+                "eligibility": "Participants from institutes with Students with Disabilities (teachers who are teaching Students with Disabilities in current academic year)",
+                "coordinator": [
+                    "Sandhya MK",
+                    "9445171766",
+                    "Neha Trivedi",
+                    "9004040767",
+                    "neha@xrcvc.org",
+                    "Rajendra Shinde",
+                    "9819100131",
+                    "principal@xaviers.edu"
+                ],
+                "collaborator": ["Xavier’s Resource Centre for Visually Challenged (XRCVC)", "St. Xavier’s College (Autonomous), Mumbai (XRCVC) has been working in the field of inclusive education for more than 20 years. The college established Xavier’s Resource Centre for the visually challenged called ‘XRCVC’ as a separate department by Professor Sam Taraporevala, who is himself visually challenged. The Centre has done remarkable work over the years in awareness, training & advocacy related to inclusive Higher education. To know more go to www.xrcvc.org"],
+                "syllabus": [
+                {
+                    "topic": "Training Modules",
+                    "subtopic": [
+                        "i. Sensitization towards different disabilities",
+                        "ii.    Understanding the key assistive technologies available for persons with disabilities",
+                        "iii.   Learning the key principles of Inclusive education",
+                        "iv.    Teaching strategies and tips to make classrooms inclusive",
+                        "v. Understanding of creating an inclusive education ecosystem at higher education",
+                        "vi.    In-service training and feedback on implementing classroom strategies for inclusive education."
+                    ]
+                },
+                {
+                    "topic": "Duration",
+                    "subtopic": ["Five days"]
+                },
+                {
+                    "topic": "Mode",
+                    "subtopic": ["Online / Offline"]
+                }]
+            },
+            {
+                "id":5,
+                "video":"",
+                "program": "Scientific and Rational Thinking ",
+                "about": "An exclusive peer to peer training model coordinated by MSFDA to establish Rational Thinking Cell in interested institutes to introduce students to the scientific way of thinking and approaching life trainings through a series of activities and interventions on topics of promotion of constitutional values, environment protection, anti-superstition, anti-alcohol etc.",
+                "eligibility": "Any Interested Institute",
+                "coordinator": [
+                    "Shantanu Pawar",
+                    "8866800776",
+                    "9834080418",
+                    "Mukta Dabholkar",
+                    "9423297969",
+                    "muktadabholkar@gmail.com"
+                ],
+                "collaborator": ["DOST", "DOST- Scientific and Rational Thinking - The Constitution mentions development of scientific temper as a Fundamental Duty of every citizen. The NEP, 2020 thus promotes holistic development of students in line with Constitutional values. Thus MSFDA to promote and institutionalise rational thought will organise trainings for students and teachers in each college of Maharashtra in development of scientific thought through a model of peer-to-peer learning wherein reputed organisations working in this area will be contributing."],
+                "syllabus": [
+                {
+                    "topic": "Module 1",
+                    "subtopic": [
+                        "module 1.1",
+                        "module 1.2"
+                    ]
+                },
+                {
+                    "topic": "Module 2",
+                    "subtopic": [
+                        "module 2.1",
+                        "module 2.2"
+                    ]
+                }]
+            }]
+        },
+        {
+            "id": 5,
+            "program": "Centre for Networking",
+            "about": "The Centre will build a strong network of academicians, practitioners, organizations and institutions that can bring in expertise that is best desired for education of young people. It will act as a platform to allow sharing and exchange of latest development in terms of thought, skill, technology in various arts and science streams as well as learning pedagogy. The Centre will, thus, support other Centres as well as HEIs for designing of appropriate modules and courses. It will take lead in creating opportunities and avenues for student internships, fellowships, apprenticeship, placements and any other form of association to learn and practice by-hand on the field."
+        },
+        {
+            "id": 6,
+            "program": "Centre for Resources",
+            "about": "The Centre will be developed as a studio hosting a library, an audio-visual room, a performance space with required technical and other resources and provision for regular updating of resources like books, journals, periodicals, films, audio files, etc. It will endeavor to become a one-stop Centre for information pertaining to best online/offline resources. It will tie up and compile the existing resources/ online platforms for guidance of trainees/students who will visit the Centre. It will be an active space that will hosts events, debates/discussions, shows, film screenings, musicals, readings, exhibitions etc. for not only the faculty but also the students, thus also becoming a hub for traditional, modern, digital and other forms of creative expression."
+        },
+
+        {
+            "id": 7,
+            "program": "Centre for Evaluation and Assessment",
+            "about": "The Centre is aimed at complementing and enhancing the working of other Centres and to build capacities in the system for higher quality in assessment and evaluation. The objectives of this Centre will be to develop and promote understanding of graduate competency and learning objective frameworks for different domains of knowledge (including skills, values and practice) to guide and to provide different learning experiences – theoretical knowledge, field based experiences, lab, etc ;also  develop faculty capacity to improve quality of assessment and type of assessment task, innovate assessment methodologies To develop ability to enhance validity and reliability of assessment and ensure that assessment addresses inclusion effectively. In addition, the Centre shall carry out designing pre- and post-enrolment surveys to gather data on indicators of success, to conduct sample-based assessments to gauge and monitor quality of student learning and satisfaction.  And use data from existing assessment and evaluation to improve curriculum and review social goals of higher education (including equity, inclusion)."
+        }
+    ],
+
+    "users": [
+    {
+        "id": 1,
+        "data":
+        {
+            "course": "Maharashtra State Development of Educators and Enhancement in Delivery (MS-DEED) Program",
+            "centre": "Centre for Multidisciplinary Curriculum and Pedagogy",
+            "region": "Pune",
+            "district": "Kolhapur",
+            "register":
+            {
+                "name": "patil manisha",
+                "category": "Parent",
+                "email": "manisha@gmail.com",
+                "number": "123",
+                "gender": "female",
+                "qualification":
+                {
+                    "name": "Bsc",
+                    "course": "IT"
+                },
+                "stream":
+                {
+                    "name": "Science",
+                    "other": "",
+                    "year": ""
+                },
+                "designation":
+                {
+                    "name": "",
+                    "other": ""
+                },
+                "teaching": ""
+            },
+            "institute":
+            {
+                "university": "Institute of Chemical Technology, Mumbai",
+                "type": "Government College",
+                "name": "St Lawrence",
+                "address": "Lokmanya Nagar",
+                "head": "Patil Sir",
+                "number": "123",
+                "email": "stlawrence@gmail.com",
+                "expectation": "nice to meet you"
+            },
+            "date": "May, 2022"
+        }
+    }]
+}

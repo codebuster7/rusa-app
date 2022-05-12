@@ -1,0 +1,89 @@
+{
+    "centreID": 1,
+    "courseID": 6,
+    "data": {
+        "course": "Faculty Development Programs in Techno-pedagogy and Andragogy for Active",
+        "centre": "Centre for Multidisciplinary Curriculum and Pedagogy",
+        "area": {
+            "region": "Nashik",
+            "district": "Thane"
+        },
+        "register": [{
+                "name": "sanskar",
+                "category": "Parent",
+                "email": "piyush@gmail.com",
+                "number": "1234",
+                "gender": "male",
+                "qualification": {
+                    "name": "PhD",
+                    "course": "IT"
+                },
+                "stream": {
+                    "name": "Arts (Performing Arts, Visual Arts)",
+                    "other": "sdf",
+                    "year": "2"
+                },
+                "designation": {
+                    "name": "U G Faculty",
+                    "other": "df"
+                },
+                "teaching": "0 - 5 years"
+            },
+            {
+                "name": "Shashank",
+                "category": "Parent",
+                "email": "piyush@gmail.com",
+                "number": "1234",
+                "gender": "male",
+                "qualification": {
+                    "name": "PhD",
+                    "course": "IT"
+                },
+                "stream": {
+                    "name": "Arts (Performing Arts, Visual Arts)",
+                    "other": "sdf",
+                    "year": "2"
+                },
+                "designation": {
+                    "name": "U G Faculty",
+                    "other": "df"
+                },
+                "teaching": "0 - 5 years"
+
+            },
+            {
+                "name": "Ratan",
+                "category": "Parent",
+                "email": "piyush@gmail.com",
+                "number": "1234",
+                "gender": "male",
+                "qualification": {
+                    "name": "PhD",
+                    "course": "IT"
+                },
+                "stream": {
+                    "name": "Arts (Performing Arts, Visual Arts)",
+                    "other": "sdf",
+                    "year": "2"
+                },
+                "designation": {
+                    "name": "U G Faculty",
+                    "other": "df"
+                },
+                "teaching": "0 - 5 years"
+
+            }
+        ],
+        "institute": {
+            "university": "Gokhale Institute of Politics &amp; Economics, Pune",
+            "uni_type": "Aided Private College",
+            "name": "St Lawrence",
+            "address": "asdfasf",
+            "head": "Silvester",
+            "number": "1234567890",
+            "email": "hello@gmail.com",
+            "expectation": "asdasd"
+        },
+        "date": "Apr, 2022"
+    }
+}

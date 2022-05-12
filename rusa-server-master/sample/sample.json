@@ -1,0 +1,51 @@
+{
+    "centreID": 2,
+    "courseID": 2,
+    "data":
+    {
+        "course": "Maharashtra State Development of Educators and Enhancement in Delivery (MS-DEED) Program",
+        "centre": "Centre for Multidisciplinary Curriculum and Pedagogy",
+        "area":
+        {
+            "region": "Amravati",
+            "district": "Akola"
+        },
+        "register":
+        {
+            "name": "Piyush Pankaj Patil",
+            "category": "Teacher",
+            "email": "piyush@gmail.com",
+            "number": "1234",
+            "gender": "male",
+            "qualification":
+            {
+                "name": "PhD",
+                "course": "IT"
+            },
+            "stream":
+            {
+                "name": "Arts (Performing Arts, Visual Arts)",
+                "other": "sdf",
+                "year": "2"
+            },
+            "designation":
+            {
+                "name": "U G Faculty",
+                "other": "df"
+            },
+            "teaching": "0 - 5 years"
+        },
+        "institute":
+        {
+            "university": "Institute of Chemical Technology, Mumbai",
+            "uni_type": "Government College",
+            "name": "st law",
+            "address": "lokmanya nagar",
+            "head": "Patil",
+            "number": "1234",
+            "email": "inst@gmail.com",
+            "expectation": "hello"
+        },
+        "date": "Apr, 2022"
+    }
+}

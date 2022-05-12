@@ -1,0 +1,19 @@
+doctype html
+html(lang="en")
+  head
+    title backend
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.9.3/css/bulma.min.css" integrity="sha512-IgmDkwzs96t4SrChW29No3NXBIBv8baW490zk5aXvhCD8vuZM3yUSkbyTBcXohkySecyzIrUwiF/qV0cuPcL3Q==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+body
+  section.section
+    .columns.is-multiline
+      .column.is-6
+        form(action="/api/v1/users" method="POST")
+          .field
+            .control
+              input(type="text" placeholder="name" name="name").input
+          .field
+            .control
+              input(type="email" placeholder="email" name="email").input
+          .field
+            .control
+              input(type="submit" value="submit").button.is-success
